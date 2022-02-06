@@ -5,14 +5,13 @@
 - 👀 Pretendo estudar NodeJS
 - 😄 Pronomes ele/dele
 
-<div style="display: inline_block">
+
 <div> 
   <a href="https://github.com/minokael">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minokael&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minokael&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 </div>
-  </div>
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mino-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
