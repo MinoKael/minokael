@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Mikael Santana
 
-- 🔭 Atualmente focado em Back-End
-- 🌱 Hoje estou estudando Python
-- 👀 Pretendo estudar NodeJS
-- 😄 Pronomes ele/dele
+- 🔭 Atualmente focado em Front-End
+- 🌱 Hoje estou estudando Vue 3 
+- 👀 Pretendo estudar .NET/C#
 
 
 <div> 
