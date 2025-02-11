@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Mikael Santana
 
-- 🔭 Atualmente focado em Front-End
-- 🌱 Hoje estou estudando Vue 3 
-- 👀 Pretendo estudar .NET/C#
+- 🔭 Atualmente focado em Full-Stack
+- 🌱 Hoje estou estudando .NET/C#
+- 👀 Pretendo estudar Python e C 
 
 
 <div> 
